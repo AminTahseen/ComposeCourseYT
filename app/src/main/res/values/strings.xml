@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComposeCourseYT</string>
+    <string name="title_activity_state_handle">StateHandleActivity</string>
 </resources>
